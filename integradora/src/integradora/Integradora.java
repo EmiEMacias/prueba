@@ -8,12 +8,10 @@ package integradora;
  *
  * @author USER
  */
-public class Integradora {
-
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+  
         
     }
     
